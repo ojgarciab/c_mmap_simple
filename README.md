@@ -1,2 +1,2 @@
 # c_mmap_simple
-Ejemplo muy simple del uso de mmap
+Ejemplos muy simples del uso de archivos mapeados en memoria.
