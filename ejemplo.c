@@ -8,7 +8,6 @@
 
 int main(int argc, char** argv) {
     double *datos;
-    char cero = '\0';
     int fd;
     size_t filesize;
     /* Si no indicamos el archivo a usar, fallamos la ejecución */
