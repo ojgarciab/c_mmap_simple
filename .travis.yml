@@ -8,3 +8,4 @@ script:
   - ".\/ejemplo pruebas | tee \/dev\/fd\/2 | grep -q \"^Datos iniciales: 0.0\""
   - ".\/ejemplo pruebas | tee \/dev\/fd\/2 | grep -q \"^Datos iniciales: 3.1\""
   - test -s pruebas
+
