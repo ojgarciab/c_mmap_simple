@@ -1,0 +1,8 @@
+compiler:
+  - gcc
+install:
+  - cmake .
+  - make
+  - ./ejemplo pruebas
+  - test -s pruebas_mal
+
